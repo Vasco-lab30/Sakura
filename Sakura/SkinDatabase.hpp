@@ -53,7 +53,8 @@ public:
 		{ "PetChibiMissFortune",	"Chibi MissFortune",		std::make_pair(1, 2)},
 		{ "PetChibiMorgana",		"Chibi Morgana",		std::make_pair(1, 2)},
                 { "PetChibiOrianna",		"Chibi Orianna",		std::make_pair(1, 2)},
-		{ "PetChibiSeraphine",		"Chibi Seraphine",			std::make_pair(1, 2)},
+		{ "PetChibiSeraphine",		"Chibi Seraphine",			std::make_pair(1, 3)},
+		{ "PetChibiJhin",		"Chibi Jhin",			std::make_pair(1, 2)},}
 		{ "PetChibiSett",		"Chibi Sett",			std::make_pair(1, 3)},
 		{ "PetChibiSona",		"Chibi Sona",			std::make_pair(1, 2)},
 		{ "PetChibiTeemo",		"Chibi Teemo",			std::make_pair(1, 2)},
@@ -63,7 +64,7 @@ public:
 		{ "PetChibiYone",		"Chibi Yone",			std::make_pair(1, 2)},
                 { "PetChibiYuumi",		"Chibi Yuumi",		        std::make_pair(1, 2)},
 		{ "PetChibiZed",		"Chibi Zed",			std::make_pair(1, 3)},
-		{ "PetChibiZoe",		"Chibi Zoe",			std::make_pair(1, 2)},
+		{ "PetChibiZoe",		"Chibi Zoe",			std::make_pair(1, 3)},
 		{ "PetChoncc",			"Choncc",			std::make_pair(1, 51)},
 		{ "PetCreepyCat",		"Whisker",			std::make_pair(1, 21)},
 		{ "PetDowsie",			"Dowsie",			std::make_pair(1, 52)},
